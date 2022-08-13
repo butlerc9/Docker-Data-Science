@@ -177,3 +177,6 @@ bundles/
 vendor/pkg/
 pyenv
 Vagrantfile
+
+# Ignore data sources
+data/
