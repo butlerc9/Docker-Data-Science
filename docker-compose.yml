@@ -2,7 +2,7 @@ version: '3.1'
 
 services:
   data_science_container:
-    image: python_data_science_container
+    image: butlerc9/python_data_science_container
     volumes:
       - .:/home/jovyan/work jupyter/datascience-notebook
     ports:
