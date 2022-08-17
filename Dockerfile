@@ -11,6 +11,7 @@ LABEL author="cormac-butler"
 RUN mamba install --quiet --yes \
     'kaggle' \
     'pandas-profiling'        && \
+    pip install popmon && \
     mamba clean --all -f -y
 
 # expose port 10000 on container and 8888 on host
