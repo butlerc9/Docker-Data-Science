@@ -1,6 +1,6 @@
 # Start with jupyter tensorflow notebook base image
 # This contains; conda, latex, git, matplotlib, pandas, scikitlearn, tensorflow
-FROM jupyter/tensorflow-notebook
+FROM jupyter/scipy-notebook
 
 WORKDIR /home/jovyan/work jupyter/datascience-notebook
 
