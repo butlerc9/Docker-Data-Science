@@ -1,13 +1,13 @@
 # Start with jupyter tensorflow notebook base image
 # This contains; conda, latex, git, matplotlib, pandas, scikitlearn, tensorflow
-FROM jupyter/scipy-notebook
+FROM jupyter/scipy-notebook:python-3.9.13
 
 WORKDIR /home/jovyan/work jupyter/datascience-notebook
 
 # add author label
 LABEL author="cormac-butler"
 
-# Install Kaggle
+# # Install Kaggle
 RUN mamba install --quiet --yes \
     'kaggle' \
     'pandas-profiling'        && \
