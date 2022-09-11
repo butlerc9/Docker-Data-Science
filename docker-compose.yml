@@ -3,8 +3,6 @@ version: '3.1'
 services:
 
   data_science_container:
-    env_file:
-      - ~/.kaggle/.env
     image: butlerc9/python_data_science_container
     volumes:
       - .:/home/jovyan/work jupyter/datascience-notebook
