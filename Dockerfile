@@ -13,6 +13,7 @@ EXPOSE 10000:8888
 # # Install Kaggle
 RUN mamba install --quiet --yes \
     'kaggle' \
-    'pandas-profiling'        && \
+    'pandas-profiling' \
+    'statsmodels' && \
     pip install popmon && \
     mamba clean --all -f -y
