@@ -32,7 +32,14 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+
+Jupyter Docker Stacks are a set of ready-to-run [Docker images](https://hub.docker.com/u/jupyter) containing Jupyter applications and interactive computing tools.
+You can use a stack image to do any of the following (and more):
+
+- Start a personal Jupyter Server with JupyterLab frontend (default)
+- Run JupyterLab for a team using JupyterHub
+- Start a personal Jupyter Notebook server in a local Docker container
+- Write your own project Dockerfile
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
