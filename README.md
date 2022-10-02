@@ -5,18 +5,11 @@
 
 <h3 align="center">Docker Data Science</h3>
 
-<div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
 
 ---
 
-<p align="center"> Docker-Data-Science is a template repository for python data science/ml/stats projects. The repo is free, beginner friendly and flexible.</p>
+<p align="center"> Docker-Data-Science is a template repository for python data science/ml/stats projects. This template is beginner friendly, configurable and can allow anybody to start creating, building and sharing their projects in a reproducible and deployable form.</p>
 
 
 
@@ -33,23 +26,22 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Docker data science is built from the <a href = 'https://github.com/jupyter/docker-stacks/'>Jupyter Docker Stacks</a> are a set of ready-to-run [Docker images](https://hub.docker.com/u/jupyter) containing Jupyter applications and interactive computing tools.
-You can use a stack image to do any of the following (and more):
-
-- Start a personal Jupyter Server with JupyterLab frontend (default)
-- Run JupyterLab for a team using JupyterHub
-- Start a personal Jupyter Notebook server in a local Docker container
-- Write your own project Dockerfile
+Docker data science provides a development environment that is organised, reproducible and flexible. The repository has the following primary functionalities:
+- A ready to run docker container built from the <a href = 'https://github.com/jupyter/docker-stacks/'>Jupyter Docker Stacks</a> with pre-installed python packages
+- An organised folder structure for data science projects
+- Pre-made jupyter notebooks for data exploration, regression and modelling
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
 
-```
-Give examples
-```
+The only prerequisites to start coding are
+
+1. An installation of <a href = 'https://www.docker.com/'>docker</a>
+2. Any web browser OR text editor/ide with Jupyter support
+
+### Starting a project
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
