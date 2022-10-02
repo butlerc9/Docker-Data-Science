@@ -17,10 +17,7 @@
 ---
 
 <p align="center"> Docker-Data-Science provides a template for data science/ml/stats projects. It's free, simple and open-source.</p>
-1. A template folder structure for your data projects
-2. A docker container with python and machine learning packages pre-installed
-3. Pre-made EDA/regression/prediction notebooks to jumpstart your projects
-    <br> 
+
 
 
 ## 📝 Table of Contents
