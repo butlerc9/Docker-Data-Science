@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
-![alt text](https://github.com/butlerc9/Docker-Data-Science/images/read,e/vertical-logo-monochromatic.webp?raw=true)
+  <img src="https://github.com/butlerc9/Docker-Data-Science/blob/main/images/readme/vertical-logo-monochromatic.webp" width="200" title="hover text">
 </p>
 
 <h3 align="center">Docker Data Science</h3>
