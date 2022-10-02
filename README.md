@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Docker-Data-Science is a template repository for data science/ml/stats projects. It's a free and simple way for anybody to start a project.</p>
+<p align="center"> Docker-Data-Science is a template repository for python data science/ml/stats projects. The template is free, simple and flexible.</p>
 
 
 
