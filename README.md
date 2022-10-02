@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+![alt text](https://github.com/butlerc9/Docker-Data-Science/images/read,e/vertical-logo-monochromatic.webp?raw=true)
 </p>
 
 <h3 align="center">Docker Data Science</h3>
