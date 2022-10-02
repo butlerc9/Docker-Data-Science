@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Docker Data Science</h3>
 
 <div align="center">
 
@@ -16,7 +16,10 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Docker-Data-Science provides a template for data science, machine learning and statistics projects. It's free, simple and open-source. The template contains
+  1. A template folder structure for your data projects
+  2. A docker container with python and machine learning packages pre-installed
+  3. Pre-made EDA/regression/prediction notebooks to jumpstart your projects
     <br> 
 </p>
 
