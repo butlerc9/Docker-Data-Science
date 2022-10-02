@@ -33,7 +33,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Docker data science is built from the <a href = 'https://github.com/jupyter/docker-stacks/'></a> Jupyter Docker Stacks are a set of ready-to-run [Docker images](https://hub.docker.com/u/jupyter) containing Jupyter applications and interactive computing tools.
+Docker data science is built from the <a href = 'https://github.com/jupyter/docker-stacks/'>Jupyter Docker Stacks</a> are a set of ready-to-run [Docker images](https://hub.docker.com/u/jupyter) containing Jupyter applications and interactive computing tools.
 You can use a stack image to do any of the following (and more):
 
 - Start a personal Jupyter Server with JupyterLab frontend (default)
