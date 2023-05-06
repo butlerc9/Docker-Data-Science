@@ -1,0 +1,7 @@
+# all of these are installed via mamba (conda wrapper)
+pandas-profiling
+
+# need to be installed if you are using minimal notebook
+pytorch
+pandas
+scikit-learn
