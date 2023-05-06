@@ -3,11 +3,12 @@ version: '3.1'
 services:
 
   data_science_container:
-    image: butlerc9/python_data_science_container
+    build: .
     volumes:
       - .:/home/jovyan/work jupyter/datascience-notebook
     ports:
       - 8888:8888
+    # you must create a .env file in the root directory with these two assigned if you'd like to use kaggle directly in container
     environment:
       - KAGGLE_USERNAME=${KAGGLE_USERNAME}
       - KAGGLE_KEY=${KAGGLE_KEY}

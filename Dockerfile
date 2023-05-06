@@ -11,9 +11,4 @@ LABEL author="cormac-butler"
 EXPOSE 10000:8888
 
 # # Install Kaggle
-RUN mamba install --quiet --yes \
-    'kaggle' \
-    'pandas-profiling' \
-    'statsmodels' && \
-    pip install popmon && \
-    mamba clean --all -f -y
+RUN conda install --file requirements.txt
